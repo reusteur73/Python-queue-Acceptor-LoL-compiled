@@ -5,7 +5,7 @@ A League Of Legends queue acceptor for windows including .exe file - No installa
 I was inspired by the lucassmonn code
 [accept-queue-lol-telegram](https://github.com/lucassmonn/accept-queue-lol-telegram), and I modify it according to my needs. That I have compiled in order to make it accessible to everyone.
 
-For Windows only, check [python version](https://github.com/reusteur73/LoL_auto_queue_acceptor) for other OS. (But you would need to install all the right packages in the right versions.)
+For Windows only, check [python version](https://github.com/reusteur73/LoL_auto_queue_acceptor) (uncompiled) for other OS. (But you would need to install all the right packages in the right versions.)
 
 # Antivirus detection
 
