@@ -16,4 +16,4 @@ For Windows only, check [python version](https://github.com/reusteur73/LoL_auto_
 
 ## Demonstration
 
-![Demonstration](1.gif)
+![Demonstration](http://www.reusteur.org/hRDz3fWn/1.gif)
