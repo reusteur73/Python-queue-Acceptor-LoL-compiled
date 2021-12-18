@@ -17,3 +17,5 @@ For Windows only, check [python version](https://github.com/reusteur73/LoL_auto_
 ## Demonstration
 
 ![Demonstration](http://www.reusteur.org/hRDz3fWn/1.gif)
+
+<img src="http://www.reusteur.org/hRDz3fWn/1.gif" alt="My Project GIF" width="500" height="600">
