@@ -1,1 +1,0 @@
-game-language=C:\Users\maloa\config.ini
