@@ -4,7 +4,9 @@
 
 Launch a game of LoL, during the queue launch the Windows Screenshot Tool application, or press Win+Shift+S. <br>
 When the match appears, take a picture of the 'accept' button text. <br>Like below : 
-![alt text](exemple1.png)
+<p align="center">
+<img src="exemple1.PNG"width="500"/>
+</p>
 <p style="text-align: center;"><sup>Here is an example with almost all languages, yours will probably be in English</sup></p>
 When you have made the photo, you can not accept the match in order to continue.<br>
 You can save the image wherever you want. Then go to the file where you saved the image and follow these steps:<br>
