@@ -1,5 +1,5 @@
 # LoL-queue-Acceptor-windows
-A League Of Legends queue acceptor for windows including .exe file - No installation needed, ready to use, In 11 different languages. (English, Deutsch, Français, Español, 日本語, Italiano, Русский, Magyar, Português, Čeština, Polski.)
+A League Of Legends queue acceptor for windows including .exe file - No installation needed, ready to use.
 
 # Ready to use match accept League Of Legends.
 I was inspired by the lucassmonn code
