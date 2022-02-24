@@ -19,7 +19,7 @@ As said above, the uncompiled version is available, the code open to all
     1 - Download this respo as zip.  
     2 - Unzip
     3 - Execute start.exe in the folder  
-    4 - Follow this https://github.com/reusteur73/LoL-queue-Acceptor-windows/blob/1.4/docs/readme.md
+    4 - Follow this https://github.com/reusteur73/Python-queue-Acceptor-LoL-compiled/blob/1.4/docs/readme.md
     5 - Queue up and have fun :D
  # How To setup Accept Match button
 
