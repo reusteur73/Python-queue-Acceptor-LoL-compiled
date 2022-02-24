@@ -1,5 +1,6 @@
 # LoL-queue-Acceptor-windows
-A League Of Legends queue acceptor for windows including .exe file - No installation needed, ready to use.
+A League Of Legends queue acceptor for windows including .exe file - No installation needed, ready to use. <br>
+You can set a notifier on telegram or discord.
 
 # Ready to use match accept League Of Legends.
 I was inspired by the lucassmonn code
