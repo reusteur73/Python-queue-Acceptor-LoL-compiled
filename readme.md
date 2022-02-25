@@ -6,7 +6,7 @@ You can set a notifier on telegram or discord.
 I was inspired by the lucassmonn code
 [accept-queue-lol-telegram](https://github.com/lucassmonn/accept-queue-lol-telegram), and I modify it according to my needs. That I have compiled in order to make it accessible to everyone.
 
-For Windows only, check [python version](https://github.com/reusteur73/LoL_auto_queue_acceptor) (uncompiled) for other OS. (But you would need to install all the right packages in the right versions.)
+You can use uncompiled version, where you can find the code open to all, check [python version](https://github.com/reusteur73/LoL_auto_queue_acceptor) (uncompiled) for other OS. (But you would need to install all the right packages in the right versions.)
 # Antivirus detection
 
 I used [py2exe](http://www.py2exe.org/) to compile the program.
