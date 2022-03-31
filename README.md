@@ -1,7 +1,7 @@
 # v1.6.0 What's new ?
 - Instead of py2exe i used pyinstaller to compile program.
 - Now python3.10 is used insted of 3.6.
-- The code is much more efficient, before it fears 400 lines, now it is optimized and makes 180 lines for the same actions. [See code](https://github.com/reusteur73/Python_auto_queue_acceptor_uncompiled/blob/main/accept.py)
+- The code is much more efficient, before it fears 400 lines, now it is optimized and makes 200 lines for the same actions. [See code](https://github.com/reusteur73/Python_auto_queue_acceptor_uncompiled/blob/main/accept.py)
 - Improvement of interfaces.
 
 # LoL-queue-Acceptor-windows
