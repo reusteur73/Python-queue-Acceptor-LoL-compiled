@@ -34,18 +34,18 @@ As said above, the uncompiled version is available, the code open to all
 Launch a game of LoL, during the queue launch the Windows Screenshot Tool application, or press Win+Shift+S. <br>
 When the match appears, take a picture of the 'accept' button text. <br>Like below : 
 <p align="center">
-<img src="docs/exemple1.PNG"width="500"/>
+<img src="https://github.com/reusteur73/Python-queue-Acceptor-LoL-compiled/blob/1.5.2/docs/exemple1.PNG"width="500"/>
 </p>
 <p style="text-align: center;"><sup>Here is an example with almost all languages, yours will probably be in English</sup></p>
 When you have made the photo, you can not accept the match in order to continue.<br>
 You can save the image wherever you want. Then go to the file where you saved the image and follow these steps:<br>
 
 <p align="center">
-<img src="docs/exemple2.gif" alt="drawing" width="500" style="text-align: center;"/>
+<img src="https://github.com/reusteur73/Python-queue-Acceptor-LoL-compiled/blob/1.5.2/docs/exemple2.gif" alt="drawing" width="500" style="text-align: center;"/>
 </p>
 <p style="align: center;"><sup>Create a shortcut to the image, right-click the shortcut, so you can copy the target location of the image. You can then delete the shortcut.</sup></p>
 
 <p align="center">You can now paste the path to the image (by right-clicking) into the script window, when asked. <br>Like below:</p>
 <p align="center">
-<img src="docs/exemple3.gif" width=""/>
+<img src="https://github.com/reusteur73/Python-queue-Acceptor-LoL-compiled/blob/1.5.2/docs/exemple3.gif" width=""/>
 </p>
